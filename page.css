@@ -17,6 +17,9 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+p.small {
+    line-height: 0.9;
+}
 .header {
     padding: 30px;
     text-align: center;
@@ -35,7 +38,7 @@ li a {
     -ms-flex: 1;
     flex: 1;
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+    height: 600px; /* Should be removed. Only for demonstration */
 }
 li a:hover {
     background-color: #111;
